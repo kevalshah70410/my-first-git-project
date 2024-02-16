@@ -7,13 +7,13 @@ Author : Keval Shah.
 Start Learning Git.
 <br/>
 
-<h3>ls (list command):</h3><br />
-<p>ls: Lists all the files and directories in the current directory, excluding hidden files.</p><br />
-<p>ls -a: Lists all files, including hidden files (files with names starting with a dot).</p><br />
+<h3>ls (list command):</h3>
+<p>ls: Lists all the files and directories in the current directory, excluding hidden files.</p>
+<p>ls -a: Lists all files, including hidden files (files with names starting with a dot).</p>
 <p>ls [filename]: Lists the specified file or directory.</p><br /><br />
 
-<h3>Git Status</h3><br />
-<p><b>git status</b>The git status command is used to check the current status of your local Git repository.</p><br />
+<h3>Git Status</h3>
+<p><b>git status</b>The git status command is used to check the current status of your local Git repository.</p>
 
 <h4>Status Types:</h4>
 <ul>
@@ -23,7 +23,7 @@ Start Learning Git.
     <li>Unmodified : Unchanged</li>
 </ul>
 
-<p> Here are some key points about its functionality:</p><br/>
+<p> Here are some key points about its functionality:</p>
 <ul>
     <li>Displays the state of your local directory and the staging area.</li>
     <li>Shows whether your working tree is clean or not.</li>
@@ -32,10 +32,10 @@ Start Learning Git.
 </ul>
 <br/><br/>
 
-<h3>Git Clone : </h3><br />
+<h3>Git Clone : </h3>
 <p>Git clone is helpful to download remote rposatries into the local. The <b>command</b> is 'git clone HTTPS link' </p>
 <br /><br />
 
-<h3>Add & Commit</h3><br/>
-<p><b>git add filename</b> add new or changed files in your working directory to the Git staging area</p></br>
+<h3>Add & Commit</h3>
+<p><b>git add filename</b> add new or changed files in your working directory to the Git staging area</p>
 <p><b>git commit -m "Some Message"</b> It is the record of change</p></br>
