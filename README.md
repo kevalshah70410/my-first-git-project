@@ -37,5 +37,11 @@ Start Learning Git.
 <br /><br />
 
 <h3>Add & Commit</h3>
-<p><b>git add filename</b> add new or changed files in your working directory to the Git staging area</p>
-<p><b>git commit -m "Some Message"</b> It is the record of change</p></br>
+<h4>Add (Semi-Final Stage) : </h4>
+<p><b>git add filename :</b> add new or changed files in your working directory to the Git staging area</p>
+<h4>Commit (Final Stage) : </h4>
+<p><b>git commit -m "Some Message" : </b> It is the record of change</p></br>
+
+<h3>Git Push : </h3>
+<p>Upload local reposatory content to Remote reposatory</p>
+<p><b>git push origin branchname : </b> Use the git push command with the remote name (usually origin) and the branch name to push your local changes to the remote repository.</p>
